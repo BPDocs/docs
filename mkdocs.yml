@@ -78,3 +78,4 @@ nav:
   - Misc:
       - MiscDoc1: misc/misc1.md
   - FAQ: faq/index.md
+      - "How long does it take to make an electronic badge?": FAQ/how-long-does-it-take-to-make-an-electronic-badge.md
