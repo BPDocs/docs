@@ -1,4 +1,4 @@
-# ❓ How long does it take to make an electronic badge?
+# ❓ Question: How long does it take to make an electronic badge?
 
 The time it takes to create an electronic badge depends heavily on complexity, feature set, and whether you're working solo or with a team. Here's a general breakdown:
 
