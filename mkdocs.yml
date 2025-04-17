@@ -81,3 +81,4 @@ nav:
       - Home: faq/index.md
       - General Questions:
           - "How long does it take to make an electronic badge?": faq/how-long-does-it-take-to-make-an-electronic-badge.md
+          - "What colors can PCBs be made with?": FAQ/what-colors-can-pcbs-be-made-with.md

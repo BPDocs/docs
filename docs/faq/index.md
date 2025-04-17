@@ -6,6 +6,7 @@ Welcome to the BadgePirates FAQ! Here you'll find answers to common questions ab
 
 ### Badge Development
 - [How long does it take to make an electronic badge?](how-long-does-it-take-to-make-an-electronic-badge.md)
+- [What colors can be used to make badges?](what-colors-can-pcbs-be-made-with.md)
 
 ## 🔗 Quick Links
 - [Discord Community](https://discord.gg/BfsYbHY8m7)
