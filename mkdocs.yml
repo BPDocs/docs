@@ -77,5 +77,6 @@ nav:
       - badge2: bg/badge2.md
   - Misc:
       - MiscDoc1: misc/misc1.md
-  - FAQ: faq/index.md
-      - "How long does it take to make an electronic badge?": FAQ/how-long-does-it-take-to-make-an-electronic-badge.md
+  - FAQ:
+      - Overview: faq/index.md
+      - "How long does it take to make an electronic badge?": faq/how-long-does-it-take-to-make-an-electronic-badge.md
