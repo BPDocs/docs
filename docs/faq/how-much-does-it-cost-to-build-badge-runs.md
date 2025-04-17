@@ -6,22 +6,22 @@ The cost of producing electronic badges in medium-sized runs (100-500 units) var
 
 | **Component**              | **Typical Range (USD)** | **Notes**                                    |
 |---------------------------|-------------------------|----------------------------------------------|
-| PCB Fabrication           | $2.20-5.50             | Based on 2-4 layer board, standard options   |
-| Components (BOM)          | $11-33                 | Varies with feature set                      |
-| Assembly (PCBA)           | $5.50-16.50            | Machine assembly + any hand soldering        |
-| Battery                   | $2.20-8.80             | Depends on capacity/type                     |
-| Case/Housing             | $1.10-5.50             | If using 3D printed or injection molded      |
-| Packaging                 | $0.55-2.20             | Basic protective packaging                   |
+| PCB Fabrication           | $3.30-8.25             | Based on 2-4 layer board, standard options   |
+| Components (BOM)          | $16.50-49.50           | Varies with feature set                      |
+| Assembly (PCBA)           | $8.25-24.75            | Machine assembly + any hand soldering        |
+| Battery                   | $3.30-13.20            | Depends on capacity/type                     |
+| Case/Housing             | $1.65-8.25             | If using 3D printed or injection molded      |
+| Packaging                 | $0.83-3.30             | Basic protective packaging                   |
 
 ## 🎯 Example Cost Scenarios
 
 ### Basic LED Badge (100 units)
-- Simple MCU + LEDs: ~$22-27.50/unit
-- Total run cost: $2,200-2,750
+- Simple MCU + LEDs: ~$33-41.25/unit
+- Total run cost: $3,300-4,125
 
 ### Feature-Rich Badge (100 units)
-- Display + WiFi + Sensors: ~$38.50-49.50/unit
-- Total run cost: $3,850-4,950
+- Display + WiFi + Sensors: ~$57.75-74.25/unit
+- Total run cost: $5,775-7,425
 
 ### Volume Discounts (500 units)
 - Typically 10-20% lower per-unit cost
