@@ -68,7 +68,7 @@ The resistors come packaged as a group of 2 (1M) and a group of 4 (1K) ohm and i
 - **Polarity matters**
 - Match the flat side of the transistor with the marking on the PCB
 
-![Install Transistors](/img/top-l2s-kit/transistor_install.jpg)
+![Install Transistors](/img/top-l2s-kit/transistors.jpeg)
 
 ---
 
@@ -80,7 +80,7 @@ The resistors come packaged as a group of 2 (1M) and a group of 4 (1K) ohm and i
 - The longer lead is positive (anode) and should go to the pad marked with a '+'
 - Test LEDs with a CR2032 battery before installing and chose your color layout
 
-![Install LEDs](/img/top-l2s-kit/transistors.jpeg)
+![Install LEDs](/img/top-l2s-kit/leds.jpeg)
 
 ---
 
