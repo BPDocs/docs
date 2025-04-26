@@ -1,0 +1,6 @@
+This hardware design is licensed under the CERN Open Hardware Licence v2 - Permissive (CERN-OHL-P).
+
+You may redistribute and modify this design under the terms of the CERN-OHL-P v2.
+
+A copy of the license is available at:
+https://ohwr.org/cern_ohl_p_v2.txt

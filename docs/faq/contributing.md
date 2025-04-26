@@ -23,7 +23,6 @@ Below is a backlog of potential FAQ entries we plan to address. Want to help? Pi
 - What's the trick to getting crisp silkscreen text on matte‑black PCBs?
 
 ### 🔐 Security & Updates
-- What's the simplest way to add OTA firmware updates for attendees?
 - How do I make the badge hacker‑friendly without exposing the root FS?
 - How do I handle onsite re‑flashing or last‑minute patches at the booth?
 
@@ -31,9 +30,6 @@ Below is a backlog of potential FAQ entries we plan to address. Want to help? Pi
 - SAO 1.6bis vs 2.0— which expansion standard should I support?
 - How do I design a badge that won't brick when the student shorts 3V and GND?
 - How do I add gamification or puzzle elements that stay fun after the con?
-
-### 📜 Documentation
-- What open‑source licenses work best for badge firmware and hardware files?
 
 ---
 
