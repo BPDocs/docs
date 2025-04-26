@@ -2,7 +2,7 @@
 
 Welcome to the Learn to Solder Village!  Follow the steps carefully, paying special attention to components with polarity (led's, transistors). Before you begin, test your LEDs using a CR2032 battery to ensure they work by putting the anode (longest pin) on the top (+) side of the battery and the cathode (short pin) on the bottom (-).
 
-![Kit Components](/docs/img/top-l2s-kit/solder-kit-components.jpeg)
+![Kit Components](/img/top-l2s-kit/solder-kit-components.jpeg)
 
 ---
 
