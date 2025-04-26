@@ -30,13 +30,13 @@ The resistors come packaged as a group of 2 (1M) and a group of 4 (1K) ohm and i
 - No polarity
 - Install the 1MΩ resistors in the locations marked R3 and R4
 
-![Install 1MΩ Resistors](/docs/img/top-l2s-kit/1m-resistor.jpeg)
+![Install 1MΩ Resistors](/img/top-l2s-kit/1m-resistor.jpeg)
 
 ### 1kΩ Resistors (R1, R2, R5, R6)
 - No polarity
 - Install the 1kΩ resistors in the locations marked R1, R2, R5, and R6 on the PCB
 
-![Install 1kΩ Resistors](/docs/img/top-l2s-kit/all-resistors.jpeg)
+![Install 1kΩ Resistors](/img/top-l2s-kit/all-resistors.jpeg)
 
 
 
@@ -48,7 +48,7 @@ The resistors come packaged as a group of 2 (1M) and a group of 4 (1K) ohm and i
 - **Polarity matters**
 - Make sure the clips are installed in the correct orientation otherwise the components on the board will prevent you from inserting the battery!!  The silkscreen on the PCB has a notation on it to indicate where the backside (closed) side of the battery holder goes.
 
-![Install Battery Clips](/docs/img/top-l2s-kit/battery-holder.jpeg)
+![Install Battery Clips](/img/top-l2s-kit/battery-holder.jpeg)
 
 --
 
@@ -58,7 +58,7 @@ The resistors come packaged as a group of 2 (1M) and a group of 4 (1K) ohm and i
 - No polarity
 - Install capacitors in the locations marked C1 and C2
 
-![Install Capacitors](/docs/img/top-l2s-kit/capacitors.jpeg)
+![Install Capacitors](/img/top-l2s-kit/capacitors.jpeg)
 
 ---
 
@@ -68,7 +68,7 @@ The resistors come packaged as a group of 2 (1M) and a group of 4 (1K) ohm and i
 - **Polarity matters**
 - Match the flat side of the transistor with the marking on the PCB
 
-![Install Transistors](/docs/img/top-l2s-kit/transistor_install.jpg)
+![Install Transistors](/img/top-l2s-kit/transistor_install.jpg)
 
 ---
 
@@ -80,7 +80,7 @@ The resistors come packaged as a group of 2 (1M) and a group of 4 (1K) ohm and i
 - The longer lead is positive (anode) and should go to the pad marked with a '+'
 - Test LEDs with a CR2032 battery before installing and chose your color layout
 
-![Install LEDs](/docs/img/top-l2s-kit/transistors.jpeg)
+![Install LEDs](/img/top-l2s-kit/transistors.jpeg)
 
 ---
 
@@ -90,7 +90,7 @@ The resistors come packaged as a group of 2 (1M) and a group of 4 (1K) ohm and i
 - No polarity but should be installed according to the silkscreen on the PCB to prevent interference with other components.
 - Install the switch into the location marked S1
 
-![Install Switch](/docs/img/top-l2s-kit/switch.jpeg)
+![Install Switch](/img/top-l2s-kit/switch.jpeg)
 
 ---
 
@@ -107,8 +107,8 @@ The resistors come packaged as a group of 2 (1M) and a group of 4 (1K) ohm and i
 2. Insert the assembly through the hole in the center of the PCB
 3. Screw the taller M2*18 copper pillar onto the top side to form the spinning handle
 
-![Assemble botto ](/docs/img/top-l2s-kit/bottom-assembly.jpeg)
-![Assemble Top Handle](/docs/img/top-l2s-kit/top-assembly.jpeg)
+![Assemble botto ](/img/top-l2s-kit/bottom-assembly.jpeg)
+![Assemble Top Handle](/img/top-l2s-kit/top-assembly.jpeg)
 
 
 ---
