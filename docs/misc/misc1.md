@@ -113,6 +113,11 @@ The resistors come packaged as a group of 2 (1M) and a group of 4 (1K) ohm and i
 
 ---
 
+# Assembled Kit
+
+![Assembled Kit](/img/top-l2s-kit/assembled-kit.jpeg)
+
+
 # Powering Up
 
 1. Insert two CR2032 batteries into the clips, matching the '+' side with the markings on the board
