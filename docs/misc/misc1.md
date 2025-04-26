@@ -82,6 +82,10 @@ The resistors come packaged as a group of 2 (1M) and a group of 4 (1K) ohm and i
 
 ![Install LEDs](/img/top-l2s-kit/leds.jpeg)
 
+If your PCB looks like this the square is the positive through hole.
+
+![Install LEDs](/img/top-l2s-kit/led-silk.jpeg)
+
 ---
 
 ## 6. Switch
