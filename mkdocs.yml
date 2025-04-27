@@ -84,6 +84,7 @@ nav:
           - "How much does it cost to build badge runs?": faq/how-much-does-it-cost-to-build-badge-runs.md
       - Badge Usage & Updates:
           - "What's the simplest way to add OTA firmware updates for attendees?": faq/Whats-the-Simplest-Way-to-Add-OTA-Firmware-Updates-for-Attendees.md
+          - "When will I get my BSidesKC badge?": faq/when-will-i-get-my-bsideskc-badge.md
       - Documentation:
           - "What open‑source licenses work best for badge firmware and hardware files?": faq/best-open-source-licenses-for-badge-firmware-and-hardware.md
       - Example License Files:

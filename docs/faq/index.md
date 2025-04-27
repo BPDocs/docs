@@ -34,6 +34,9 @@ Check out our [contribution guide](contributing.md) to:
 - [Twitter Updates](https://twitter.com/BadgePirates)
 - [Instagram](https://www.instagram.com/badgepiratesllc)
 
+## MISC
+- [When will I receive my BSidesKC badge?](When-will-I-receive-my-BSidesKC-badge.md)
+
 ---
 !!! tip "Need Help?"
     Can't find what you're looking for? [Join our Discord](https://discord.gg/BfsYbHY8m7) or [open an issue](https://github.com/BPDocs/docs/issues) on GitHub!
