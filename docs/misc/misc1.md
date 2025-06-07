@@ -91,7 +91,8 @@ If your PCB looks like this the square is the positive through hole.
 ## 6. Switch
 
 ### Switch (S1)
-- No polarity but should be installed according to the silkscreen on the PCB to prevent interference with other components.
+- Does have polarity and should be installed according to the silkscreen on the PCB to prevent interference with other components.
+- Make sure it fits inside the rectangle on the silkscreen.
 - Install the switch into the location marked S1
 
 ![Install Switch](/img/top-l2s-kit/switch.jpeg)
