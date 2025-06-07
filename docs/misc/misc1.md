@@ -76,7 +76,8 @@ The resistors come packaged as a group of 2 (1M) and a group of 4 (1K) ohm and i
 
 ### LED Diodes (D1, D2, D3, D4)
 - **Polarity matters**
-- 
+
+- Did you test your LED's?  You should test your LED's! :)
 - The longer lead is positive (anode) and should go to the pad marked with a '+'
 - Test LEDs with a CR2032 battery before installing and chose your color layout
 
