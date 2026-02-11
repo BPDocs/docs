@@ -74,6 +74,8 @@ nav:
   - Build Guides:
       - BioHacking Village DC31 Badge: bg/BioHackingBadgeSoldering.md
       - badge2: bg/badge2.md
+  - Resources:
+      - CC14 (CactusCon 14): resources/cc14.md
   - Misc:
       - BsidesKC2025 Learn to Solder: misc/misc1.md
   - FAQ:
