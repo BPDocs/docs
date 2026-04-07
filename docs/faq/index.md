@@ -4,15 +4,23 @@ Welcome to the BadgePirates FAQ! Here you'll find answers to common questions ab
 
 ## 📚 General Questions
 
+### About BadgePirates
+- [What is BadgePirates?](../about.md)
+- [How can I buy a Badge Pirates badge?](how-to-buy-a-badge.md)
+- [How can I find BadgePirates at an event?](find-us-at-events.md)
+- [Are BadgePirates badges open source?](are-badges-open-source.md)
+
+### Using Your Badge
+- [How do I flash firmware to my badge?](how-to-flash-firmware.md)
+- [What is an SAO?](what-is-an-sao.md)
+- [What's the simplest way to add OTA firmware updates for attendees?](Whats-the-Simplest-Way-to-Add-OTA-Firmware-Updates-for-Attendees.md)
+
 ### Badge Development & Costs
 - [How long does it take to make an electronic badge?](how-long-does-it-take-to-make-an-electronic-badge.md)
 - [How much does it cost to build badge runs?](how-much-does-it-cost-to-build-badge-runs.md)
 
 ### Design & Manufacturing
 - [What colors can PCBs be made with?](what-colors-can-pcbs-be-made-with.md)
-
-### Badge Usage & Updates
-- [What's the simplest way to add OTA firmware updates for attendees?](Whats-the-Simplest-Way-to-Add-OTA-Firmware-Updates-for-Attendees.md)
 
 ### Documentation
 - [What open‑source licenses work best for badge firmware and hardware files?](best-open-source-licenses-for-badge-firmware-and-hardware.md)
