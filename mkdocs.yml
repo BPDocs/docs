@@ -33,6 +33,7 @@ theme:
 markdown_extensions:
   - admonition
   - attr_list
+  - md_in_html
   - def_list
   - footnotes
   - pymdownx.highlight:
