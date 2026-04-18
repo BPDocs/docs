@@ -69,6 +69,7 @@ nav:
   - Home: index.md
   - Build Guides:
       - BioHacking Village DC31 Badge: bg/BioHackingBadgeSoldering.md
+      - BSidesKC 2026 Badge Build: bg/bsideskc2026.md
       - badge2: bg/badge2.md
   - Resources:
       - CC14 (CactusCon 14): resources/cc14.md
