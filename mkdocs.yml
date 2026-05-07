@@ -68,9 +68,13 @@ extra:
 nav:
   - Home: index.md
   - Catalog: catalog/index.md
+  - About: about.md
+  - Flash Your Badge: flash/index.md
   - Build Guides:
       - BioHacking Village DC31 Badge: bg/BioHackingBadgeSoldering.md
       - BSidesKC 2026 Badge Build: bg/bsideskc2026.md
+  - Platform:
+      - ESP32-S3 Reference: platform/esp32-s3.md
   - Resources:
       - CC14 (CactusCon 14): resources/cc14.md
   - Misc:
@@ -81,12 +85,19 @@ nav:
           - "How long does it take to make an electronic badge?": faq/how-long-does-it-take-to-make-an-electronic-badge.md
           - "What colors can PCBs be made with?": faq/what-colors-can-pcbs-be-made-with.md
           - "How much does it cost to build badge runs?": faq/how-much-does-it-cost-to-build-badge-runs.md
+          - "Are BadgePirates badges open source?": faq/are-badges-open-source.md
+          - "How can I find BadgePirates at an event?": faq/find-us-at-events.md
+          - "How can I buy a Badge Pirates badge?": faq/how-to-buy-a-badge.md
+          - "What is an SAO?": faq/what-is-an-sao.md
       - Badge Usage & Updates:
           - "What's the simplest way to add OTA firmware updates for attendees?": faq/Whats-the-Simplest-Way-to-Add-OTA-Firmware-Updates-for-Attendees.md
           - "When will I get my BSidesKC badge?": faq/when-will-i-get-my-bsideskc-badge.md
+          - "How do I flash firmware to my badge?": faq/how-to-flash-firmware.md
       - Documentation:
           - "What open‑source licenses work best for badge firmware and hardware files?": faq/best-open-source-licenses-for-badge-firmware-and-hardware.md
       - Example License Files:
           - "MIT License Example": faq/MITLicenseExample.txt
           - "CERN-OHL-P v2 License Example": faq/CERN-OHL-P_v2.txt
       - Contributing: faq/contributing.md
+  - Shop: https://www.tindie.com/stores/badgepirates/
+  - Blog: https://blog.badgepirates.com
