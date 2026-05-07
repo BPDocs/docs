@@ -12,6 +12,22 @@ Welcome to the BadgePirates documentation hub. Find build guides, resources, and
 
     [:octicons-arrow-right-24: Browse the catalog](catalog/index.md)
 
+-   :material-flash:{ .lg .middle } **Flash Your Badge**
+
+    ---
+
+    Got a badge in your hand? Update its firmware, switch to Marauder, or recover from a brick.
+
+    [:octicons-arrow-right-24: Flashing guide](flash/index.md)
+
+-   :material-chip:{ .lg .middle } **Platform Reference**
+
+    ---
+
+    Pin map, peripherals, and dev environment for the shared ESP32-S3 platform behind most BP badges.
+
+    [:octicons-arrow-right-24: ESP32-S3 reference](platform/esp32-s3.md)
+
 -   :material-hammer-wrench:{ .lg .middle } **Build Guides**
 
     ---
@@ -28,14 +44,6 @@ Welcome to the BadgePirates documentation hub. Find build guides, resources, and
 
     [:octicons-arrow-right-24: View resources](resources/cc14.md)
 
--   :material-lightning-bolt:{ .lg .middle } **Misc**
-
-    ---
-
-    Workshop guides, learn-to-solder events, and other one-off community materials.
-
-    [:octicons-arrow-right-24: View misc docs](misc/misc1.md)
-
 -   :material-frequently-asked-questions:{ .lg .middle } **FAQ**
 
     ---
@@ -43,6 +51,22 @@ Welcome to the BadgePirates documentation hub. Find build guides, resources, and
     Common questions about badge design, firmware updates, PCB colors, licensing, and more.
 
     [:octicons-arrow-right-24: Browse the FAQ](faq/index.md)
+
+-   :material-information-outline:{ .lg .middle } **About**
+
+    ---
+
+    Who we are, what we make, and how a one-and-a-half-person shop runs a badge company with a fleet of AI agents.
+
+    [:octicons-arrow-right-24: About BadgePirates](about.md)
+
+-   :material-store:{ .lg .middle } **Shop**
+
+    ---
+
+    Buy a badge on Tindie. Same hardware that ships at the cons.
+
+    [:octicons-arrow-right-24: BadgePirates on Tindie](https://www.tindie.com/stores/badgepirates/)
 
 </div>
 
