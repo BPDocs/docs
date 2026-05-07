@@ -4,6 +4,14 @@ Welcome to the BadgePirates documentation hub. Find build guides, resources, and
 
 <div class="grid cards" markdown>
 
+-   :material-format-list-bulleted-square:{ .lg .middle } **Catalog**
+
+    ---
+
+    Every conference badge, kit, and side-project we've shipped since 2018, with build guides and resources linked where they exist.
+
+    [:octicons-arrow-right-24: Browse the catalog](catalog/index.md)
+
 -   :material-hammer-wrench:{ .lg .middle } **Build Guides**
 
     ---
