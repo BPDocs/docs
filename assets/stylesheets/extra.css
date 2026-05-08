@@ -1,0 +1,166 @@
+/* ── Google Fonts ─────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&display=swap');
+
+/* ── BadgePirates Color Tokens ────────────────────────────── */
+:root,
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #00aaff;
+  --md-primary-fg-color--light: #33bbff;
+  --md-primary-fg-color--dark:  #0077bb;
+  --md-accent-fg-color:         #00aaff;
+  --md-accent-fg-color--light:  rgba(0, 170, 255, 0.15);
+
+  --md-default-bg-color:        #080808;
+  --md-default-bg-color--light: #0f0f0f;
+  --md-default-bg-color--lighter: #161616;
+  --md-default-bg-color--lightest: #1e1e1e;
+
+  --md-default-fg-color:        #ffffff;
+  --md-default-fg-color--light: #cccccc;
+  --md-default-fg-color--lighter: #888888;
+  --md-default-fg-color--lightest: rgba(255,255,255,0.07);
+
+  --md-code-bg-color:           #0f0f0f;
+  --md-code-fg-color:           #cccccc;
+
+  --md-typeset-a-color:         #00aaff;
+
+  --bp-gold: #f0a500;
+  --bp-border: rgba(255,255,255,0.07);
+}
+
+/* ── Typography ───────────────────────────────────────────── */
+body,
+.md-typeset {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.md-typeset code,
+.md-typeset pre,
+.md-content__inner code,
+kbd {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.85em;
+}
+
+/* ── Header / Nav ─────────────────────────────────────────── */
+.md-header {
+  background: rgba(8, 8, 8, 0.9);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--bp-border);
+  box-shadow: none;
+}
+
+.md-header__title {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.md-tabs {
+  background: #0f0f0f;
+  border-bottom: 1px solid var(--bp-border);
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: var(--md-primary-fg-color);
+}
+
+/* ── Sidebar ──────────────────────────────────────────────── */
+.md-sidebar {
+  background: #0f0f0f;
+}
+
+.md-nav__link--active,
+.md-nav__link:hover {
+  color: var(--md-primary-fg-color);
+}
+
+.md-nav__link--active {
+  font-weight: 600;
+}
+
+/* ── Content ──────────────────────────────────────────────── */
+.md-content {
+  background: var(--md-default-bg-color);
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.md-typeset h1 {
+  color: var(--md-primary-fg-color);
+}
+
+.md-typeset a {
+  color: var(--md-primary-fg-color);
+}
+
+.md-typeset a:hover {
+  color: var(--md-primary-fg-color--light);
+}
+
+/* ── Code Blocks ──────────────────────────────────────────── */
+.md-typeset pre {
+  background: #0f0f0f;
+  border: 1px solid var(--bp-border);
+  border-radius: 8px;
+}
+
+.highlight {
+  background: #0f0f0f !important;
+}
+
+/* ── Admonitions ──────────────────────────────────────────── */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 8px;
+  border-left-color: var(--md-primary-fg-color);
+}
+
+/* ── Search ───────────────────────────────────────────────── */
+.md-search__form {
+  background: #161616;
+  border: 1px solid var(--bp-border);
+  border-radius: 8px;
+}
+
+.md-search__input {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+/* ── Footer ───────────────────────────────────────────────── */
+.md-footer {
+  background: #0f0f0f;
+  border-top: 1px solid var(--bp-border);
+}
+
+.md-footer-meta {
+  background: #080808;
+}
+
+/* ── Tables ───────────────────────────────────────────────── */
+.md-typeset table:not([class]) th {
+  background: #161616;
+  color: var(--md-primary-fg-color);
+  font-family: 'Space Mono', monospace;
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.md-typeset table:not([class]) td {
+  border-color: var(--bp-border);
+}
+
+/* ── Scrollbar ────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #080808; }
+::-webkit-scrollbar-thumb { background: #333; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--md-primary-fg-color); }
