@@ -56,13 +56,13 @@ The back is labeled to help you place each part:
 
 * **Polarity matters** — this is the most important step to get right.
 * Did you test your LEDs? You should test your LEDs! :)
-* The **longer leg** is positive (**anode**) and goes into the hole marked **`+`** (the **`+Long`** side).
-* The **shorter leg** is negative (**cathode**) and goes into the hole marked **`−`** (the **`−Short`** side).
+* The **longer leg** is positive (**anode**) and goes into the hole next to the **`+`** marked on the **front**.
+* The **shorter leg** is negative (**cathode**) goes into the other hole.
 * Insert each LED from the **front** (art side) so the colored dome shows on the front, with the legs poking through to the back. Bend the legs slightly on the back so it doesn't fall out while you solder.
 * Install all **three** LEDs the same way, then solder the legs on the **back** and trim them.
 
-!!! warning "The polarity marks are on the back — it's easy to get this backwards"
-    The **`+` / `−`** and **`+Long` / `−Short`** labels are printed on the **back**, but you insert the LED from the **front**. When you flip the board over to read the marks, left and right are mirrored — so it's easy to put the long leg in the wrong hole. Read the label on the back, then flip to the front and double-check the long leg is going into the **`+`** hole before you solder.
+!!! tip "Use the `+` on the front — don't flip the board to read the back"
+    There is a small **`+`** silkscreened on the **front** (art side) next to each LED's positive hole — put the **long leg** there. You do **not** need to flip the board over to the `+Long` / `−Short` labels on the back: those are on the opposite side, so reading them and flipping back mirrors left/right and makes it easy to get the LED backwards. Match the long leg to the front-side `+` and you're set.
 
 ![Install an LED](/img/ozsec-l2s/install-led.jpeg){ loading=lazy }
 
