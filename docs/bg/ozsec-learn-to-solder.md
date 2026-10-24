@@ -35,8 +35,6 @@ The back is labeled to help you place each part:
 
 ![Board Front](/img/ozsec-l2s/board-front.jpeg){ loading=lazy }
 
-![Board Back](/img/ozsec-l2s/board-back.jpeg){ loading=lazy }
-
 # Component Installation
 
 ## 1. Battery Clip
@@ -62,6 +60,9 @@ The back is labeled to help you place each part:
 * The **shorter leg** is negative (**cathode**) and goes into the hole marked **`−`** (the **`−Short`** side).
 * Insert each LED from the **front** (art side) so the colored dome shows on the front, with the legs poking through to the back. Bend the legs slightly on the back so it doesn't fall out while you solder.
 * Install all **three** LEDs the same way, then solder the legs on the **back** and trim them.
+
+!!! warning "The polarity marks are on the back — it's easy to get this backwards"
+    The **`+` / `−`** and **`+Long` / `−Short`** labels are printed on the **back**, but you insert the LED from the **front**. When you flip the board over to read the marks, left and right are mirrored — so it's easy to put the long leg in the wrong hole. Read the label on the back, then flip to the front and double-check the long leg is going into the **`+`** hole before you solder.
 
 ![Install an LED](/img/ozsec-l2s/install-led.jpeg){ loading=lazy }
 
