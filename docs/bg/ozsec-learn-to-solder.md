@@ -23,16 +23,19 @@ Follow the steps carefully and pay special attention to the parts that have **po
 
 ## Know Your Board
 
-The badge has a **front** (the printed art side) and a **back** (the silkscreen side with the labels). Components are inserted from the **front** and soldered on the **back**.
+The badge has a **front** (the printed art side) and a **back** (the silkscreen side with the labels and the large clip pads).
+
+* The **LEDs and resistors** are inserted from the **front** (art side) — their bodies sit on the front, and their legs poke through to the back where you solder and trim them.
+* The **battery clip** mounts on the **back** (silkscreen side).
 
 The back is labeled to help you place each part:
 
-* The battery clip footprints are marked **+** (left) and **−** (right), with the coin-cell seat in the middle.
+* The battery-clip footprint shows the clip outline with a **U-shaped cutout** at the top edge, plus **+** and **−** markings and the round coin-cell seat.
 * Each LED location has a polarity legend: **`+Long`** and **`−Short`**, with **`+`** and **`−`** marked next to the pad pair.
 
-![Board Front](/img/ozsec-l2s/board-front.jpeg)
+![Board Front](/img/ozsec-l2s/board-front.jpeg){ loading=lazy }
 
-![Board Back](/img/ozsec-l2s/board-back.jpeg)
+![Board Back](/img/ozsec-l2s/board-back.jpeg){ loading=lazy }
 
 # Component Installation
 
@@ -40,11 +43,14 @@ The back is labeled to help you place each part:
 
 ### CR2032 Coin-Cell Clip (Qty 1)
 
-* **Polarity matters**
-* Fit the clip onto the back of the board so it lines up with the **+** and **−** silkscreen markings and the round coin-cell seat.
+* **Orientation is critical** — get this one right before you solder.
+* Fit the clip onto the **back** of the board so the clip's **U-shaped cutout aligns with the cutout on the silkscreen, at the top** (toward the keyring hole). The round coin-cell seat should sit under the clip.
 * Solder the clip's tabs to the board. These are large pads, so give them a moment to heat up and get a good, shiny joint.
 
-![Install Battery Clip](/img/ozsec-l2s/battery-clip.jpeg)
+!!! warning "Install the clip the right way around"
+    The battery slides in from the open side of the clip. If the clip is soldered in **backwards**, the retention pins end up on the insertion side and physically **block the coin cell from going in**. Match the clip's U-shaped cutout to the one on the silkscreen (cutout to the **top**) before soldering.
+
+![Install Battery Clip](/img/ozsec-l2s/battery-clip.jpeg){ loading=lazy }
 
 ## 2. LEDs
 
@@ -54,10 +60,10 @@ The back is labeled to help you place each part:
 * Did you test your LEDs? You should test your LEDs! :)
 * The **longer leg** is positive (**anode**) and goes into the hole marked **`+`** (the **`+Long`** side).
 * The **shorter leg** is negative (**cathode**) and goes into the hole marked **`−`** (the **`−Short`** side).
-* Insert each LED from the **front** so the colored dome shows on the art side, then bend the legs slightly on the back so it doesn't fall out while you solder.
-* Install all **three** LEDs the same way, then solder and trim the legs.
+* Insert each LED from the **front** (art side) so the colored dome shows on the front, with the legs poking through to the back. Bend the legs slightly on the back so it doesn't fall out while you solder.
+* Install all **three** LEDs the same way, then solder the legs on the **back** and trim them.
 
-![Install an LED](/img/ozsec-l2s/install-led.jpeg)
+![Install an LED](/img/ozsec-l2s/install-led.jpeg){ loading=lazy }
 
 ## 3. Resistors
 
@@ -65,16 +71,16 @@ The back is labeled to help you place each part:
 
 * **No polarity** — these can go in either direction.
 * There is **one resistor per LED**. All three are the same value.
-* Insert a resistor into each resistor location from the front, bend the legs on the back to hold it, then solder and trim.
+* Like the LEDs, resistors install from the **front** (art side): insert each one into its resistor location, bend the legs on the back to hold it, then solder on the **back** and trim.
 
-![Install a Resistor](/img/ozsec-l2s/install-resistor.jpeg)
+![Install a Resistor](/img/ozsec-l2s/install-resistor.jpeg){ loading=lazy }
 
 # Powering Up
 
 1. Insert a **CR2032** coin cell into the clip, matching the **+** side of the battery to the **+** marking on the board.
 2. The three LEDs should light up.
 
-![Assembled and Lit](/img/ozsec-l2s/assembled-lit.jpeg)
+![Assembled and Lit](/img/ozsec-l2s/assembled-lit.jpeg){ loading=lazy }
 
 Clip the keyring through the hole at the top and you're done. Congratulations on your OzSec badge!
 
@@ -91,5 +97,5 @@ Clip the keyring through the hole at the top and you're done. Congratulations on
 | PCB badge | 1 | — | `ctf.ozsecurity.org` keyring board |
 | 5mm red LED | 3 | **Yes** | Long leg = `+`, short leg = `−` |
 | Current-limiting resistor | 3 | No | One per LED; all the same value |
-| CR2032 coin-cell clip | 1 | **Yes** | Match `+` / `−` silkscreen |
+| CR2032 coin-cell clip | 1 | — | Orientation matters: U-cutout to the top |
 | CR2032 coin cell | 1 | **Yes** | `+` side up |
