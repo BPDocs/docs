@@ -73,6 +73,7 @@ nav:
   - Build Guides:
       - BioHacking Village DC31 Badge: bg/BioHackingBadgeSoldering.md
       - BSidesKC 2026 Badge Build: bg/bsideskc2026.md
+      - OzSec Learn to Solder: bg/ozsec-learn-to-solder.md
   - Platform:
       - ESP32-S3 Reference: platform/esp32-s3.md
   - Resources:
